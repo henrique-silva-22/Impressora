@@ -25,5 +25,7 @@ O trabalho faz parte da disciplina de **Construção de Algoritmos e Programaç�
 5. 
 ## 👥 Autores  
 Felipe Gabriel
+
 Gabriel dos Anjos Gomes da Silva
+
 Henrique Silva de Almeida
